@@ -340,3 +340,9 @@ The dashboard was designed to provide a unified view of **campaign performance, 
 
 All dashboards described above represent the analytical structure and design approach.  
 Company-specific data, metrics, and internal details have been anonymized to maintain confidentiality.
+
+
+Sample ad served
+<img width="1114" height="286" alt="Screenshot 2026-04-10 at 1 32 05 PM" src="https://github.com/user-attachments/assets/02f3b18b-37f0-4c4c-913b-20c1aa074d3a" />
+
+
